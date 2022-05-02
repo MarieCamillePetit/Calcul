@@ -1,0 +1,7 @@
+G:\test\testVisualStudio2019\Calculs\Calculs\bin\Debug\Calculs.exe.config
+G:\test\testVisualStudio2019\Calculs\Calculs\bin\Debug\Calculs.exe
+G:\test\testVisualStudio2019\Calculs\Calculs\bin\Debug\Calculs.pdb
+G:\test\testVisualStudio2019\Calculs\Calculs\obj\Debug\Calculs.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\Calculs\Calculs\obj\Debug\Calculs.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\Calculs\Calculs\obj\Debug\Calculs.exe
+G:\test\testVisualStudio2019\Calculs\Calculs\obj\Debug\Calculs.pdb
